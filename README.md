@@ -1,2 +1,2 @@
-# EDA_ZOMATO_BANGALORE
+# EDUBRIDGE CAPSTONE PROJECT
 Exploratory Data Analysis of Zomato Bangalore
